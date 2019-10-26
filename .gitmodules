@@ -1,0 +1,9 @@
+[submodule "stm32f4_eink_sender"]
+	path = stm32f4_eink_sender
+	url = https://github.com/dretay/stm32f4_eink_sender
+[submodule "stm32f4_eink"]
+	path = stm32f4_eink
+	url = https://github.com/dretay/stm32f4_eink.git
+[submodule "waveshare_7.5_epaper"]
+	path = waveshare_7.5_epaper
+	url = https://github.com/dretay/waveshare_7.5_epaper.git
